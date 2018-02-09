@@ -1,0 +1,65 @@
+.rootDiv {
+    /* background-color: pink; */
+    padding: 20px;
+}
+
+.rootDiv .btn{
+    width: 80px;
+    margin-left: 20px;
+}
+
+.rootDiv .ws-url {
+    margin-left: 20px;
+    width: 300px;
+}
+
+.sent-message {
+    float: right;
+}
+
+.message-content {
+    padding-top: 20px;
+}
+
+.message-content textarea {
+    height: 350px; 
+}
+
+.ws-status {
+    height: 50px;
+    line-height: 50px;
+    padding-left: 56px;
+    font-size: 20px;
+}
+
+.ws-status.red {
+    color: red;
+}
+.col-md-pull-6,.col-md-push-6{
+    width: 50%;
+    float: left;
+}
+
+textarea {
+    resize: none;
+}
+
+.name-password {
+    padding-bottom: 12px;
+}
+
+.user-login .control-label {
+    padding-right: 15px;
+}
+
+.user-login .password {
+    padding-left: 15px;
+}
+
+.user-type {
+    padding-top: 50px;
+}
+
+.user-type .btn-toolbar {
+    display: inline-block;
+}
